@@ -81,16 +81,11 @@
         "copper_edge_clearance|143240000|68793333|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|181c02d3-a00d-4f65-b2d5-bc3218004f03",
         "copper_edge_clearance|143240000|70178333|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|19dae9bc-d29c-4bf7-ae77-bfdb5abee3a7",
         "copper_edge_clearance|143240000|71563333|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|96abe814-9a5b-4969-81cf-d2116be7b50e",
-        "courtyards_overlap|122679999|37900001|13bc98e0-b793-4792-8186-15495b60312d|df3a6d93-809e-464b-a602-9f6b6de5a588",
+        "courtyards_overlap|122679999|36630001|13bc98e0-b793-4792-8186-15495b60312d|df3a6d93-809e-464b-a602-9f6b6de5a588",
         "silk_edge_clearance|75020000|39190000|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|a18aa06c-f220-4e95-ab71-f5409546e8ea",
         "silk_edge_clearance|75020000|42310000|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|144c7f18-76df-4e38-9829-54450b74f361",
         "silk_edge_clearance|75020000|49320000|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|992aae01-e5ab-4754-9558-0443d3939943",
-        "silk_edge_clearance|75020000|58720000|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|6d5b1018-7350-4f24-b905-321fdea976ec",
-        "silk_over_copper|108645336|49605697|a8cb2e47-a607-490d-b413-1fed3c037537|00000000-0000-0000-0000-000000000000",
-        "silk_over_copper|121345336|36754303|d1f7d486-a9da-4cec-8a18-325d3b1fc0f1|00000000-0000-0000-0000-000000000000",
-        "silk_over_copper|122580000|47205720|16393aa3-13b9-4e67-a007-f074d7b5d9af|00000000-0000-0000-0000-000000000000",
-        "silk_overlap|122580000|38000000|ab89fa1d-bd45-4c7b-946d-9c39ff925063|16393aa3-13b9-4e67-a007-f074d7b5d9af",
-        "silk_overlap|122580000|48360000|d44e1a05-63cd-4b8e-bdd3-e5e89e2c221f|16393aa3-13b9-4e67-a007-f074d7b5d9af"
+        "silk_edge_clearance|75020000|58720000|55d8ce0f-8ed6-4bbc-9ed4-57c469fd9de0|6d5b1018-7350-4f24-b905-321fdea976ec"
       ],
       "meta": {
         "version": 2
@@ -234,10 +229,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "pin_to_pin|355600|1536700|d0ecdb73-86d7-464d-9e00-0c0ed609cd8d|9f132afc-cf3b-4cf3-8cfa-c1127d79aaf2|/45119d54-9bb4-41fa-943c-6e8d0ad5f7c8|/45119d54-9bb4-41fa-943c-6e8d0ad5f7c8|/45119d54-9bb4-41fa-943c-6e8d0ad5f7c8",
-      "pin_to_pin|355600|1562100|ceccbe38-5da4-401a-b916-8b3c3b186668|d9d364bd-069d-49cc-b256-302538d58e64|/45119d54-9bb4-41fa-943c-6e8d0ad5f7c8|/45119d54-9bb4-41fa-943c-6e8d0ad5f7c8|/45119d54-9bb4-41fa-943c-6e8d0ad5f7c8"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
