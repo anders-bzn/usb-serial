@@ -1,4 +1,8 @@
-~usb-serial.kicad_pcb.lck
-~usb-serial.kicad_sch.lck
+DRC.rpt
+*FCBak
+fp-info-cache
 sym-lib-table
 usb-serial-backups/
+~usb-serial.kicad_pcb.lck
+~usb-serial.kicad_sch.lck
+gerber/
