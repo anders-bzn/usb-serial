@@ -960,7 +960,7 @@
 				)
 			)
 		)
-		(property "Value" "<<<<<<s<"
+		(property "Value" "PEME2-5-D12-D"
 			(at 7.43 20.32 90)
 			(layer "F.Fab")
 			(uuid "48247dbe-1666-4514-9fb0-9927bc4012e9")
@@ -1011,7 +1011,7 @@
 		(path "/95e9f7a8-5f43-4029-b812-4ca5641d245b")
 		(sheetname "Root")
 		(sheetfile "usb-serial.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start 8.99 -2.64)
 			(end -1.37 -2.64)
@@ -2748,7 +2748,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cfe0b435-fe98-4433-a82d-aae6d9fc8607")
@@ -2760,7 +2760,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ea1c7777-b7ce-4c75-828f-505b987e31b0")
@@ -2772,7 +2772,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "234a253c-12e6-4b82-bfa5-13ac971ef778")
@@ -2787,7 +2787,7 @@
 		(path "/2f958ecd-57a4-4b86-bb2a-2fddf32c284b")
 		(sheetname "Root")
 		(sheetfile "usb-serial.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start 2.83 4.87)
 			(end 2.83 3.75)
@@ -3151,7 +3151,7 @@
 			(uuid "964b7707-6b35-48ea-b59f-826a2003b943")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 5.66 -90)
+			(at 1.27 5.66 90)
 			(layer "F.Fab")
 			(uuid "df3ad243-b3d1-42fd-b269-5d41232b154b")
 			(effects
@@ -3185,7 +3185,7 @@
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm.wrl"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 -8)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5036,7 +5036,7 @@
 		(path "/00000000-0000-0000-0000-00005f089b01")
 		(sheetname "Root")
 		(sheetfile "usb-serial.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
@@ -6537,7 +6537,7 @@
 		(path "/92c9b8c2-a9ae-46a0-9e41-59713b7e25e1")
 		(sheetname "Root")
 		(sheetfile "usb-serial.kicad_sch")
-		(attr smd exclude_from_pos_files exclude_from_bom)
+		(attr smd exclude_from_pos_files)
 		(fp_line
 			(start -18.043333 -2.24)
 			(end -13.85 -2.24)
@@ -8205,15 +8205,15 @@
 			(pintype "passive+no_connect")
 			(uuid "92554218-c0a0-4443-998b-91f9d518dfa2")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-25_Male_EdgeMount_P2.77mm.wrl"
+		(model "/home/anders/.local/share/kicad/8.0/3dmodels/dsub-db25-male-171-025-103.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -26.5 -8.5 -6.9)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 90 180 180)
 			)
 		)
 	)
@@ -10500,7 +10500,7 @@
 		(path "/4a8c7264-eccd-42ac-a7b2-f14d5292901b")
 		(sheetname "Root")
 		(sheetfile "usb-serial.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start 13.25 -1.9)
 			(end 0.3 -1.9)
@@ -11000,7 +11000,7 @@
 		(path "/00000000-0000-0000-0000-00005f0891e6")
 		(sheetname "Root")
 		(sheetfile "usb-serial.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
 			(end 3.2 0)
