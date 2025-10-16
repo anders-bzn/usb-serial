@@ -7439,7 +7439,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 33.02) (xy 67.31 33.02)
+			(xy 59.69 38.1) (xy 67.31 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7919,7 +7919,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 38.1) (xy 67.31 38.1)
+			(xy 59.69 33.02) (xy 67.31 33.02)
 		)
 		(stroke
 			(width 0)
@@ -8182,7 +8182,7 @@
 	)
 	(global_label "~{RXD}"
 		(shape output)
-		(at 59.69 38.1 180)
+		(at 59.69 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8192,7 +8192,7 @@
 		)
 		(uuid "03ae4970-addb-4d1e-9530-f9068711e1a7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.3873 38.1 0)
+			(at 54.3873 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8380,7 +8380,7 @@
 	)
 	(global_label "~{TXD}"
 		(shape input)
-		(at 59.69 33.02 180)
+		(at 59.69 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8390,7 +8390,7 @@
 		)
 		(uuid "a750aef9-9f78-428d-bd98-d3fe0f7e79e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.6254 33.02 0)
+			(at 54.6254 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)

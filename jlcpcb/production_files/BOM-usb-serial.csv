@@ -14,3 +14,9 @@ MAX22246,"U12,U13",MAX22246,C7457939,2
 "Polyfuse 1,8A",F1,Fuse_1206_3216Metric,C70081,1
 SN75155,"U7,U8",SO-8_3.9x4.9mm_P1.27mm,C139383,2
 USBLC6-2SC6,U3,SOT-23-6,C7519,1
+PEME2-5-D12-D,U11,Converter_DCDC_CUI_INC_PEME2-xx-Dxx-D,,1
+LED,D1,LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm,,1
+MountingHole,H2,MountingHole_3.2mm_M3,,1
+DB25_Plug,J2,DSUB-25_Male_EdgeMount_P2.77mm,,1
+TDR2-1222WI,U10,Converter_DCDC_TRACO_TDR2-xxxxWI,,1
+MountingHole,H1,MountingHole_3.2mm_M3,,1
