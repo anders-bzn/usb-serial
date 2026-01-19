@@ -6,18 +6,19 @@ This is a galvanically isolated USB to RS2332 serial adapter. The repository inc
 - Full ±12V voltage swing on the RS232 side
 - Rx/Tx and RTS and CTS signals are available
 - Galvanic isolation provided by the MAX22246
-- USB to serial conversion handled by the CP2111
+- USB to serial conversion handled by the CP2102
 - Supported data formats:
     - Data bits: 5, 6, 7, and 8
     - Stop bits: 1, 1.5, and 2
     - Parity: Odd, even, mark, space and none
     - Baud rates from 300 to 921600
+- Supports serial break
 
 ![USB serial adapter](usb-serial.png)
 
 ## Tools used
 This project was created using:
-- [KiCad 8.0](https://www.kicad.org/) and [kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tools) plugin for generating PCB and fabrication files
+- [KiCad 9.0](https://www.kicad.org/) and [kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tools) plugin for generating PCB and fabrication files
 - [FreeCAD 1.0.2](https://www.freecad.org/downloads.php?lang=en) for 3D modeling the enclosure
 
 ## Assembly Instructions
